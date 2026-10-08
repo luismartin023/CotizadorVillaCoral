@@ -1,3 +1,5 @@
 <Solution>
-  <Project Path="CotizadorVillaCoral/CotizadorVillaCoral.csproj" />
+  <Project Path="CapaDatos/CapaDatos.csproj" />
+  <Project Path="CapaNegocio/CapaNegocio.csproj" />
+  <Project Path="CotizadorVillaCoral/CapaPresentacion.csproj" />
 </Solution>
