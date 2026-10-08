@@ -1,4 +1,4 @@
-﻿namespace CotizadorVillaCoral
+﻿namespace CapaVisual
 {
     partial class Form1
     {

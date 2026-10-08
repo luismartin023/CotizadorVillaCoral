@@ -1,6 +1,4 @@
-using CapaPresentacion;
-
-namespace CotizadorVillaCoral
+namespace CapaVisual
 {
     internal static class Program
     {
@@ -13,7 +11,7 @@ namespace CotizadorVillaCoral
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Nivel1());
+            Application.Run(new Form1());
         }
     }
 }
